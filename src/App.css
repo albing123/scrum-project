@@ -1,8 +1,8 @@
 .header-section {
   display: flex;
   justify-content: space-between;
-  margin-left: 500px;
-  margin-right: 500px;
+  margin-left: 250px;
+  margin-right: 250px;
   margin-bottom: 50px;
 }
 
@@ -25,20 +25,13 @@
     width: 100%;
 }
 
-.footer-content h1{
-  margin-left: 37px;
-}
 
-.footer-content {
-  margin-left: 460px;
+
+
+.footer-lists {
   display: flex;
+  align-items: center;
+  justify-content:space-evenly
 }
 
-ul {
-  list-style-type: none;
-  
-}
 
-li {
-  margin-top: 20px;
-}
