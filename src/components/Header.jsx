@@ -3,10 +3,12 @@ import '../App.css';
 
 export default function Header() {
   return (
-    <section>
+    <section className='header-section'>
      <h1 className="logo">LOGO</h1>
-     <p className='header-menu'>Start Products Mail us</p>
-     <h1 className='cart-logo'>CART LOGO</h1>
+     <div className='header-menu' >
+     <p className='header-links'> Start Products Mail us</p>
+     <h1 className='cart-logo'><i class="fa fa-shopping-basket" aria-hidden="true"></i></h1>
+     </div>
      
     </section>
   )
