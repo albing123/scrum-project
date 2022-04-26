@@ -1,0 +1,22 @@
+[
+  {
+    "brand": "Sinus",
+    "color": "black",
+    "colorName": "Potato"
+  },
+  {
+    "brand": "Sinus",
+    "color": "red",
+    "colorName": "Fire"
+  },
+  {
+    "brand": "Sinus",
+    "color": "blue",
+    "colorName": "Water"
+  },
+  {
+    "brand": "Sinus",
+    "color": "green",
+    "colorName": "Grass"
+  }
+]
