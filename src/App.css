@@ -20,22 +20,26 @@
     position: fixed;
     bottom: 0;
     left: 0;
-    height: 230px;
+    padding: 20px;
     background-color: rgb(238, 236, 236);
     width: 100%;
 }
 
+
 .list {
+
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
 }
-.list p {
-  height: 2px;
-}
 
+.list p {
+  
+  margin-top: 10px;
+}
 .footer-lists {
+  
   display: flex;
   justify-content: space-around;
   align-items: flex-start;  
