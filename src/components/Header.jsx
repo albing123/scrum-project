@@ -7,7 +7,7 @@ export default function Header() {
      <h1 className="logo">LOGO</h1>
      <div className='header-menu' >
      <p className='header-links'> Start Products Mail us</p>
-     <h1 className='cart-logo'><i class="fa fa-shopping-basket" aria-hidden="true"></i></h1>
+     <h1 className='cart-logo'><i className="fa fa-shopping-basket" aria-hidden="true"></i></h1>
      </div>
      
     </section>

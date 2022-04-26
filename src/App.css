@@ -25,13 +25,20 @@
     width: 100%;
 }
 
-
-
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.list p {
+  height: 2px;
+}
 
 .footer-lists {
   display: flex;
-  align-items: center;
-  justify-content:space-evenly
+  justify-content: space-around;
+  align-items: flex-start;  
 }
 
 
